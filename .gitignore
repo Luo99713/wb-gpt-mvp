@@ -1,10 +1,31 @@
 __pycache__/
 *.pyc
 *.pyo
+
+# Local runtime outputs
+results/
+input/
+category_cache/
+category_guides/
+WB_MVP_error_log.txt
+LAST_RESULT_PATH.txt
+last_result.json
+
+# Business data / generated reports
 *.xlsx
+*.csv
 *.csv~
+*.log
+*.tmp
+
+# API secrets
+.env
+api_settings.json
+
+# Old output folders
 yandex_wordstat_output/
 wordstat_output/
-.env
-*.log
+
+# OS
 .DS_Store
+Thumbs.db
