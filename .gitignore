@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.xlsx
+*.csv~
+yandex_wordstat_output/
+wordstat_output/
+.env
+*.log
+.DS_Store
