@@ -1,0 +1,10 @@
+{
+  "tool": "wb-selection-mvp",
+  "latest_version": "v0.5.1",
+  "version_path": "tools/wb-selection-mvp/versions/v0.5.1/",
+  "entry_points": [
+    "START.bat",
+    "API_SETTINGS.bat"
+  ],
+  "notes": "Latest structured version metadata. Binary package should be uploaded via GitHub Release or local git if needed."
+}
