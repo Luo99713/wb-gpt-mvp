@@ -1,0 +1,10 @@
+{
+  "tool": "yandex-wordstat-mvp",
+  "latest_version": "v0.6",
+  "version_path": "tools/yandex-wordstat-mvp/versions/v0.6/",
+  "legacy_entry_points": [
+    "run_windows.bat",
+    "yandex_wordstat_mvp.py"
+  ],
+  "notes": "The original runnable files remain in repository root for compatibility. This directory provides long-term version indexing."
+}
